@@ -1,4 +1,4 @@
 GitHub User Finder made with React/Tailwind.
 
 Deployed from Netlify
-Link : gitfinder99.netlify.app
+Link : https://gitfinder99.netlify.app
